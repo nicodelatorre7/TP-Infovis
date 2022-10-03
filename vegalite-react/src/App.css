@@ -1,8 +1,8 @@
 .App {
-  min-height: 100vh;
+  min-height: 95vh;
   text-align: center;
   display: flex;
-  background-color: #dfaf8a;
+  background-color: #006a65;
   flex-direction: column;
   align-items: center;
   justify-content: center;

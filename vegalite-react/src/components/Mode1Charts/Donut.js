@@ -31,7 +31,14 @@ const donutData = {
 
 const Donut = () => {
   // Si quiero sacarle las acciones actions={false}
-  return <VegaLite spec={spec} data={donutData} tooltip={new Handler().call} />;
+  return (
+    <VegaLite
+      spec={spec}
+      data={donutData}
+      actions={false}
+      tooltip={new Handler().call}
+    />
+  );
 };
 
 export default Donut;

@@ -10,8 +10,7 @@ const Home = () => {
       <div className="App">
         <Container fluid>
           <img src={logo} className="App-logo" alt="logo" />
-          <h1>ReactJs - Vega / VegaLite Tutorial</h1>
-
+          <h1>ReactJs - Vega / VegaLite Demo</h1>
           <>
             <Button variant="primary" size="lg" active href="/mode1">
               MODE 1
