@@ -4,6 +4,7 @@ import { Button } from "react-bootstrap";
 import Bar from "../components/Mode1Charts/Bar";
 import Donut from "../components/Mode1Charts/Donut";
 import ITBABar from "../components/Mode1Charts/ITBABar";
+import ITBABoxPlot from "../components/Mode1Charts/ITBABoxPlot";
 
 const Mode1 = () => {
   const [chart, setChart] = useState("");
@@ -39,6 +40,14 @@ const Mode1 = () => {
             >
               Bar Graduados
             </Button>
+            <Button
+              variant="primary"
+              size="lg"
+              active
+              onClick={() => setChart("BoxPlotITBA")}
+            >
+              BoxPlot Graduados
+            </Button>
           </>
         </Container>
         <br />
@@ -46,6 +55,7 @@ const Mode1 = () => {
         {chart === "Bar" ? <Bar /> : <></>}
         {chart === "Donut" ? <Donut /> : <></>}
         {chart === "BarITBA" ? <ITBABar /> : <></>}
+        {chart === "BoxPlotITBA" ? <ITBABoxPlot /> : <></>}
       </div>
     </React.Fragment>
   );
