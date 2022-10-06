@@ -5,6 +5,7 @@ import Bar from "../components/Mode1Charts/Bar";
 import Donut from "../components/Mode1Charts/Donut";
 import ITBABar from "../components/Mode1Charts/ITBABar";
 import ITBABoxPlot from "../components/Mode1Charts/ITBABoxPlot";
+import MultiLine from "../components/Mode1Charts/MultiLine";
 
 const Mode1 = () => {
   const [chart, setChart] = useState("");
@@ -16,38 +17,21 @@ const Mode1 = () => {
           <h1>Mode 1</h1>
           <br />
           <>
-            <Button
-              variant="primary"
-              size="lg"
-              active
-              onClick={() => setChart("Bar")}
-            >
+            <Button variant="primary" size="lg" active onClick={() => setChart("Bar")}>
               Bar
             </Button>{" "}
-            <Button
-              variant="primary"
-              size="lg"
-              active
-              onClick={() => setChart("Donut")}
-            >
+            <Button variant="primary" size="lg" active onClick={() => setChart("Donut")}>
               Donut
             </Button>{" "}
-            <Button
-              variant="primary"
-              size="lg"
-              active
-              onClick={() => setChart("BarITBA")}
-            >
+            <Button variant="primary" size="lg" active onClick={() => setChart("BarITBA")}>
               Bar Graduados
-            </Button>
-            <Button
-              variant="primary"
-              size="lg"
-              active
-              onClick={() => setChart("BoxPlotITBA")}
-            >
+            </Button>{" "}
+            <Button variant="primary" size="lg" active onClick={() => setChart("BoxPlotITBA")}>
               BoxPlot Graduados
-            </Button>
+            </Button>{" "}
+            <Button variant="primary" size="lg" active onClick={() => setChart("MultiLineITBA")}>
+              MultiLine Graduados
+            </Button>{" "}
           </>
         </Container>
         <br />
@@ -56,6 +40,7 @@ const Mode1 = () => {
         {chart === "Donut" ? <Donut /> : <></>}
         {chart === "BarITBA" ? <ITBABar /> : <></>}
         {chart === "BoxPlotITBA" ? <ITBABoxPlot /> : <></>}
+        {chart === "MultiLineITBA" ? <MultiLine /> : <></>}
       </div>
     </React.Fragment>
   );

@@ -1,0 +1,426 @@
+carrera,año,cantidad
+Ingeniero Químico,2022,22
+Ingeniero Químico,2021,32
+Ingeniero Químico,2020,20
+Ingeniero Químico,2019,23
+Ingeniero Químico,2018,15
+Ingeniero Químico,2017,43
+Ingeniero Químico,2016,20
+Ingeniero Químico,2015,28
+Ingeniero Químico,2014,21
+Ingeniero Químico,2013,18
+Ingeniero Químico,2012,24
+Ingeniero Químico,2011,20
+Ingeniero Químico,2010,30
+Ingeniero Químico,2009,14
+Ingeniero Químico,2008,21
+Ingeniero Químico,2007,14
+Ingeniero Químico,2006,13
+Ingeniero Químico,2005,14
+Ingeniero Químico,2004,19
+Ingeniero Químico,2003,11
+Ingeniero Químico,2002,15
+Ingeniero Químico,2001,21
+Ingeniero Químico,2000,21
+Ingeniero Químico,1999,17
+Ingeniero Químico,1998,14
+Ingeniero Químico,1997,13
+Ingeniero Químico,1996,18
+Ingeniero Químico,1995,13
+Ingeniero Químico,1994,9
+Ingeniero Químico,1993,13
+Ingeniero Químico,1992,11
+Ingeniero Químico,1991,6
+Ingeniero Químico,1990,4
+Ingeniero Químico,1989,6
+Ingeniero Químico,1988,3
+Ingeniero Químico,1987,2
+Ingeniero Químico,1986,5
+Ingeniero Químico,1985,7
+Ingeniero Químico,1984,5
+Ingeniero Químico,1983,2
+Ingeniero Químico,1982,7
+Ingeniero Químico,1981,4
+Ingeniero Químico,1980,5
+Ingeniero Químico,1979,4
+Ingeniero Químico,1978,1
+Ingeniero Químico,1977,2
+Ingeniero Industrial,2022,84
+Ingeniero Industrial,2021,137
+Ingeniero Industrial,2020,137
+Ingeniero Industrial,2019,115
+Ingeniero Industrial,2018,122
+Ingeniero Industrial,2017,126
+Ingeniero Industrial,2016,99
+Ingeniero Industrial,2015,128
+Ingeniero Industrial,2014,138
+Ingeniero Industrial,2013,123
+Ingeniero Industrial,2012,185
+Ingeniero Industrial,2011,114
+Ingeniero Industrial,2010,75
+Ingeniero Industrial,2009,64
+Ingeniero Industrial,2008,68
+Ingeniero Industrial,2007,69
+Ingeniero Industrial,2006,67
+Ingeniero Industrial,2005,92
+Ingeniero Industrial,2004,105
+Ingeniero Industrial,2003,136
+Ingeniero Industrial,2002,94
+Ingeniero Industrial,2001,127
+Ingeniero Industrial,2000,120
+Ingeniero Industrial,1999,97
+Ingeniero Industrial,1998,92
+Ingeniero Industrial,1997,107
+Ingeniero Industrial,1996,128
+Ingeniero Industrial,1995,106
+Ingeniero Industrial,1994,83
+Ingeniero Industrial,1993,73
+Ingeniero Industrial,1992,81
+Ingeniero Industrial,1991,31
+Ingeniero Industrial,1990,33
+Ingeniero Industrial,1989,36
+Ingeniero Industrial,1988,23
+Ingeniero Industrial,1987,28
+Ingeniero Industrial,1986,15
+Ingeniero Industrial,1985,35
+Ingeniero Industrial,1984,31
+Ingeniero Industrial,1983,24
+Ingeniero Industrial,1982,34
+Ingeniero Industrial,1981,14
+Ingeniero Industrial,1980,22
+Ingeniero Industrial,1979,21
+Ingeniero Industrial,1978,14
+Ingeniero Industrial,1977,21
+Ingeniero Industrial,1976,28
+Ingeniero Industrial,1975,20
+Ingeniero Industrial,1974,33
+Ingeniero Industrial,1973,14
+Ingeniero Industrial,1972,22
+Ingeniero Industrial,1971,30
+Ingeniero Industrial,1970,17
+Ingeniero Industrial,1969,21
+Ingeniero Industrial,1968,21
+Ingeniero Industrial,1967,8
+Ingeniero Industrial,1966,5
+Ingeniero en Petróleo,2022,10
+Ingeniero en Petróleo,2021,19
+Ingeniero en Petróleo,2020,18
+Ingeniero en Petróleo,2019,16
+Ingeniero en Petróleo,2018,24
+Ingeniero en Petróleo,2017,17
+Ingeniero en Petróleo,2016,17
+Ingeniero en Petróleo,2015,25
+Ingeniero en Petróleo,2014,8
+Ingeniero en Petróleo,2013,13
+Ingeniero en Petróleo,2012,17
+Ingeniero en Petróleo,2011,16
+Ingeniero en Petróleo,2010,20
+Ingeniero en Petróleo,2009,8
+Ingeniero en Petróleo,2008,10
+Ingeniero en Petróleo,2007,10
+Ingeniero en Petróleo,2006,5
+Ingeniero en Petróleo,2005,6
+Ingeniero en Petróleo,2004,3
+Ingeniero en Petróleo,2003,1
+Ingeniero en Petróleo,2002,3
+Ingeniero en Petróleo,2001,6
+Ingeniero en Petróleo,2000,6
+Ingeniero en Petróleo,1999,11
+Ingeniero en Petróleo,1998,7
+Ingeniero en Petróleo,1997,10
+Ingeniero en Petróleo,1996,11
+Ingeniero en Petróleo,1995,16
+Ingeniero en Petróleo,1994,20
+Ingeniero en Informática,2022,21
+Ingeniero en Informática,2021,39
+Ingeniero en Informática,2020,41
+Ingeniero en Informática,2019,40
+Ingeniero en Informática,2018,24
+Ingeniero en Informática,2017,25
+Ingeniero en Informática,2016,24
+Ingeniero en Informática,2015,10
+Ingeniero en Informática,2014,14
+Ingeniero en Informática,2013,20
+Ingeniero en Informática,2012,31
+Ingeniero en Informática,2011,15
+Ingeniero en Informática,2010,42
+Ingeniero en Informática,2009,17
+Ingeniero en Informática,2008,22
+Ingeniero en Informática,2007,16
+Ingeniero en Informática,2006,14
+Ingeniero en Informática,2005,15
+Ingeniero en Informática,2004,18
+Ingeniero en Informática,2003,19
+Ingeniero en Informática,2002,25
+Ingeniero en Informática,2001,21
+Ingeniero en Informática,2000,15
+Ingeniero en Informática,1999,13
+Ingeniero en Informática,1998,10
+Licenciatura en Gestión de Negocios,2022,8
+Licenciatura en Gestión de Negocios,2021,5
+Lic.en Administración y Sistemas,2022,25
+Lic.en Administración y Sistemas,2021,32
+Lic.en Administración y Sistemas,2020,47
+Lic.en Administración y Sistemas,2019,37
+Lic.en Administración y Sistemas,2018,49
+Lic.en Administración y Sistemas,2017,42
+Lic.en Administración y Sistemas,2016,43
+Lic.en Administración y Sistemas,2015,44
+Lic.en Administración y Sistemas,2014,34
+Lic.en Administración y Sistemas,2013,23
+Lic.en Administración y Sistemas,2012,37
+Lic.en Administración y Sistemas,2011,29
+Lic.en Administración y Sistemas,2010,42
+Lic.en Administración y Sistemas,2009,37
+Lic.en Administración y Sistemas,2008,19
+Lic.en Administración y Sistemas,2007,19
+Lic.en Administración y Sistemas,2006,5
+Ingeniero Mecánico,2022,18
+Ingeniero Mecánico,2021,18
+Ingeniero Mecánico,2020,23
+Ingeniero Mecánico,2019,19
+Ingeniero Mecánico,2018,18
+Ingeniero Mecánico,2017,24
+Ingeniero Mecánico,2016,17
+Ingeniero Mecánico,2015,35
+Ingeniero Mecánico,2014,33
+Ingeniero Mecánico,2013,11
+Ingeniero Mecánico,2012,17
+Ingeniero Mecánico,2011,19
+Ingeniero Mecánico,2010,8
+Ingeniero Mecánico,2009,14
+Ingeniero Mecánico,2008,25
+Ingeniero Mecánico,2007,15
+Ingeniero Mecánico,2006,15
+Ingeniero Mecánico,2005,17
+Ingeniero Mecánico,2004,11
+Ingeniero Mecánico,2003,11
+Ingeniero Mecánico,2002,15
+Ingeniero Mecánico,2001,12
+Ingeniero Mecánico,2000,10
+Ingeniero Mecánico,1999,6
+Ingeniero Mecánico,1998,7
+Ingeniero Mecánico,1997,7
+Ingeniero Mecánico,1996,18
+Ingeniero Mecánico,1995,14
+Ingeniero Mecánico,1994,9
+Ingeniero Mecánico,1993,13
+Ingeniero Mecánico,1992,9
+Ingeniero Mecánico,1991,10
+Ingeniero Mecánico,1990,8
+Ingeniero Mecánico,1989,10
+Ingeniero Mecánico,1988,2
+Ingeniero Mecánico,1987,6
+Ingeniero Mecánico,1986,7
+Ingeniero Mecánico,1985,11
+Ingeniero Mecánico,1984,11
+Ingeniero Mecánico,1983,5
+Ingeniero Mecánico,1982,14
+Ingeniero Mecánico,1981,12
+Ingeniero Mecánico,1980,4
+Ingeniero Mecánico,1979,3
+Ingeniero Mecánico,1978,5
+Ingeniero Mecánico,1977,3
+Ingeniero Mecánico,1976,5
+Ingeniero Electrónico,2022,24
+Ingeniero Electrónico,2021,16
+Ingeniero Electrónico,2020,14
+Ingeniero Electrónico,2019,9
+Ingeniero Electrónico,2018,4
+Ingeniero Electrónico,2017,6
+Ingeniero Electrónico,2016,9
+Ingeniero Electrónico,2015,20
+Ingeniero Electrónico,2014,38
+Ingeniero Electrónico,2013,15
+Ingeniero Electrónico,2012,19
+Ingeniero Electrónico,2011,14
+Ingeniero Electrónico,2010,26
+Ingeniero Electrónico,2009,20
+Ingeniero Electrónico,2008,23
+Ingeniero Electrónico,2007,34
+Ingeniero Electrónico,2006,18
+Ingeniero Electrónico,2005,18
+Ingeniero Electrónico,2004,25
+Ingeniero Electrónico,2003,25
+Ingeniero Electrónico,2002,21
+Ingeniero Electrónico,2001,32
+Ingeniero Electrónico,2000,24
+Ingeniero Electrónico,1999,36
+Ingeniero Electrónico,1998,26
+Ingeniero Electrónico,1997,53
+Ingeniero Electrónico,1996,35
+Ingeniero Electrónico,1995,35
+Ingeniero Electrónico,1994,51
+Ingeniero Electrónico,1993,57
+Ingeniero Electrónico,1992,40
+Ingeniero Electrónico,1991,11
+Ingeniero Electrónico,1990,17
+Ingeniero Electrónico,1989,17
+Ingeniero Electrónico,1988,16
+Ingeniero Electrónico,1987,21
+Ingeniero Electrónico,1986,8
+Ingeniero Electrónico,1985,13
+Ingeniero Electrónico,1984,17
+Ingeniero Electrónico,1983,9
+Ingeniero Electrónico,1982,11
+Ingeniero Electrónico,1981,14
+Ingeniero Electrónico,1980,18
+Ingeniero Electrónico,1979,13
+Ingeniero Electrónico,1978,19
+Ingeniero Electrónico,1977,14
+Ingeniero Electrónico,1976,15
+Ingeniero Electrónico,1975,1
+Ingeniero Electrónico,1974,8
+Ingeniero Electrónico,1973,8
+Ingeniero Electrónico,1972,1
+Ingeniero Electrónico,1971,7
+Ingeniero Electrónico,1970,15
+Ingeniero Electrónico,1969,17
+Ingeniero Electrónico,1968,22
+Ingeniero Electrónico,1967,9
+Ingeniero Electrónico,1966,11
+Bioingeniero,2022,10
+Bioingeniero,2021,23
+Bioingeniero,2020,24
+Bioingeniero,2019,14
+Bioingeniero,2018,8
+Bioingeniero,2017,4
+Licenciatura en Analítica Empresarial y Social,2022,7
+Licenciatura en Analítica Empresarial y Social,2021,4
+Ingeniero Naval,2022,1
+Ingeniero Naval,2021,1
+Ingeniero Naval,2019,1
+Ingeniero Naval,2018,1
+Ingeniero Naval,2017,3
+Ingeniero Naval,2016,1
+Ingeniero Naval,2015,1
+Ingeniero Naval,2013,1
+Ingeniero Naval,2012,2
+Ingeniero Naval,2003,1
+Ingeniero Naval,2000,2
+Ingeniero Naval,1999,1
+Ingeniero Naval,1998,4
+Ingeniero Naval,1996,2
+Ingeniero Naval,1995,3
+Ingeniero Naval,1994,1
+Ingeniero Naval,1992,5
+Ingeniero Naval,1991,5
+Ingeniero Naval,1990,5
+Ingeniero Naval,1989,5
+Ingeniero Naval,1988,8
+Ingeniero Naval,1987,1
+Ingeniero Naval,1986,7
+Ingeniero Naval,1985,4
+Ingeniero Naval,1984,3
+Ingeniero Naval,1983,4
+Ingeniero Naval,1982,8
+Ingeniero Naval,1981,4
+Ingeniero Naval,1980,3
+Ingeniero Naval,1979,2
+Ingeniero Naval,1978,5
+Ingeniero Naval,1977,4
+Ingeniero Naval,1976,1
+Ingeniero Electricista,2021,1
+Ingeniero Electricista,2020,4
+Ingeniero Electricista,2019,1
+Ingeniero Electricista,2018,1
+Ingeniero Electricista,2017,7
+Ingeniero Electricista,2016,4
+Ingeniero Electricista,2015,3
+Ingeniero Electricista,2014,2
+Ingeniero Electricista,2013,4
+Ingeniero Electricista,2011,1
+Ingeniero Electricista,1996,1
+Ingeniero Electricista,1995,1
+Ingeniero Electricista,1993,1
+Ingeniero Electricista,1991,2
+Ingeniero Electricista,1990,3
+Ingeniero Electricista,1989,7
+Ingeniero Electricista,1988,2
+Ingeniero Electricista,1986,1
+Ingeniero Electricista,1985,5
+Ingeniero Electricista,1984,2
+Ingeniero Electricista,1983,2
+Ingeniero Electricista,1982,3
+Ingeniero Electricista,1981,7
+Ingeniero Electricista,1980,1
+Ingeniero Electricista,1979,3
+Ingeniero Electricista,1978,4
+Ingeniero Electricista,1976,1
+Ingeniero Electricista,1970,1
+Licenciado en Oceanografía,2009,1
+Licenciado en Oceanografía,2006,1
+Licenciado en Oceanografía,2004,1
+Licenciado en Oceanografía,1999,1
+Licenciado en Oceanografía,1998,1
+Licenciado en Oceanografía,1997,1
+Licenciado en Oceanografía,1996,3
+Licenciado en Oceanografía,1995,4
+Licenciado en Oceanografía,1994,4
+Licenciado en Oceanografía,1993,3
+Licenciado en Oceanografía,1991,3
+Licenciado en Oceanografía,1990,12
+Licenciado en Oceanografía,1988,5
+Licenciado en Oceanografía,1987,9
+Licenciado en Oceanografía,1986,8
+Licenciado en Oceanografía,1985,7
+Licenciado en Oceanografía,1984,2
+Licenciado en Oceanografía,1983,2
+Licenciado en Oceanografía,1982,4
+Licenciado en Oceanografía,1981,2
+Licenciado en Oceanografía,1980,2
+Licenciado en Oceanografía,1979,4
+Licenciado en Oceanografía,1978,5
+Licenciado en Oceanografía,1976,1
+Licenciado en Oceanografía,1975,5
+Licenciado en Oceanografía,1974,5
+Licenciado en Oceanografía,1973,1
+Licenciado en Oceanografía,1972,3
+Licenciado en Oceanografía,1971,4
+Licenciado en Oceanografía,1970,2
+Licenciado en Oceanografía,1967,1
+Licenciado en Oceanografía,1966,6
+Licenciado en Oceanografía,1965,2
+Licenciado en Informática,1999,1
+Licenciado en Informática,1998,1
+Licenciado en Informática,1997,1
+Licenciado en Informática,1996,8
+Licenciado en Informática,1995,10
+Licenciado en Informática,1994,4
+Licenciado en Informática,1993,23
+Licenciado en Informática,1992,25
+Licenciado en Informática,1991,15
+Licenciado en Análisis de Sistemas,1992,2
+Licenciado en Análisis de Sistemas,1991,1
+Licenciado en Análisis de Sistemas,1990,2
+Licenciado en Análisis de Sistemas,1989,1
+Licenciado en Análisis de Sistemas,1988,7
+Licenciado en Análisis de Sistemas,1987,37
+Licenciado en Análisis de Sistemas,1986,60
+Ingeniero en Armas,1989,1
+Ingeniero en Armas,1988,1
+Ingeniero en Armas,1987,1
+Ingeniero en Armas,1986,1
+Ingeniero en Armas,1985,1
+Ingeniero en Armas,1984,4
+Ingeniero en Armas,1982,1
+Ingeniero en Armas,1979,2
+Ingeniero en Armas,1978,3
+Ingeniero en Armas,1977,3
+Ingeniero en Armas,1974,1
+Ingeniero en Armas,1971,1
+Ingeniero en Armas,1969,2
+Ingeniero en Armas,1967,2
+Ingeniero en Armas,1966,6
+Licenciado en Hidrografía,1982,1
+Licenciado en Hidrografía,1981,3
+Licenciado en Hidrografía,1979,2
+Licenciado en Hidrografía,1976,1
+Licenciado en Hidrografía,1975,1
+Licenciado en Hidrografía,1974,4
+Licenciado en Hidrografía,1973,2
+Licenciado en Hidrografía,1970,1
+Licenciado en Hidrografía,1968,1
+Licenciado en Ciencias Meteorológicas,1978,1
+Ingeniero Metalúrgico,1968,5
+Ingeniero Metalúrgico,1967,2
