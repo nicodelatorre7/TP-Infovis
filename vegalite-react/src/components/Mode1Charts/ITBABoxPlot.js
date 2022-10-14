@@ -8,17 +8,28 @@ const spec = {
   width: 800,
   height: 600,
   mark: "boxplot",
-  //   transform: [{ filter: "datum.promedio > 0" }],
+  // para sacarle los promedios == 0
+  // transform: [{ filter: "datum.promedio > 0" }],
   encoding: {
     y: {
       field: "titulo",
       type: "nominal",
       title: null,
+      axis: {
+        grid: false,
+        titleFontSize: 16,
+        labelFontSize: 16,
+      },
     },
     x: {
       field: "promedio",
       type: "quantitative",
       title: null,
+      axis: {
+        grid: false,
+        titleFontSize: 16,
+        labelFontSize: 16,
+      },
     },
     // color: {
     // //   legend: null,

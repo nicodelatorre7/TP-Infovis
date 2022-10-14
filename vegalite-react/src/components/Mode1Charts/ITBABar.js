@@ -27,12 +27,22 @@ const spec = {
       field: "qty",
       type: "quantitative",
       title: null,
+      axis: {
+        grid: false,
+        titleFontSize: 16,
+        labelFontSize: 16,
+      },
     },
     y: {
       sort: { field: "qty", order: "descending" },
       field: "titulo",
       type: "nominal",
       title: null,
+      axis: {
+        grid: false,
+        titleFontSize: 16,
+        labelFontSize: 16,
+      },
     },
   },
 };
