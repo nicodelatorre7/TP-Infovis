@@ -12,11 +12,11 @@ const Home = () => {
           <img src={logo} className="App-logo" alt="logo" />
           <h1>ReactJs - Vega / VegaLite Demo</h1>
           <>
-            <Button variant="primary" size="lg" active href="/mode1">
-              MODE 1
+            <Button variant="primary" size="lg" active href="/itba">
+              Graduados ITBA
             </Button>{" "}
-            <Button variant="primary" size="lg" active href="/mode2">
-              MODE 2
+            <Button variant="primary" size="lg" active href="/prices">
+              Precios en surtidores
             </Button>
           </>
         </Container>

@@ -36,7 +36,7 @@ const spec = {
       sort: { field: "qty", order: "descending" },
       field: "empresabandera",
       type: "nominal",
-      title: "empresabandera",
+      title: "Empresa",
       axis: {
         grid: false,
         titleFontSize: 16,

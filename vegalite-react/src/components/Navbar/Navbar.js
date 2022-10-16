@@ -9,8 +9,8 @@ const MyNavbar = () => {
         <Container>
           <Navbar.Brand href="/">Home</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link href="/mode1">Mode 1 </Nav.Link>
-            <Nav.Link href="/mode2">Mode 2</Nav.Link>
+            <Nav.Link href="/itba">Graduados ITBA</Nav.Link>
+            <Nav.Link href="/prices">Precios en surtidores</Nav.Link>
           </Nav>
         </Container>
       </Navbar>

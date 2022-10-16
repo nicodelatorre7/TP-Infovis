@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import { Container } from "reactstrap";
 import { Button } from "react-bootstrap";
-import Bar from "../components/Mode1Charts/Bar";
-import Donut from "../components/Mode1Charts/Donut";
 import ITBABar from "../components/Mode1Charts/ITBABar";
 import ITBABoxPlot from "../components/Mode1Charts/ITBABoxPlot";
 import MultiLine from "../components/Mode1Charts/MultiLine";
@@ -14,30 +12,22 @@ const Mode1 = () => {
     <React.Fragment>
       <div>
         <Container fluid>
-          <h1>Mode 1</h1>
+          <h1>Graduados ITBA</h1>
           <br />
           <>
-            <Button variant="primary" size="lg" active onClick={() => setChart("Bar")}>
+            <Button variant="primary" size="lg" active onClick={() => setChart("BarITBA")}>
               Bar
             </Button>{" "}
-            <Button variant="primary" size="lg" active onClick={() => setChart("Donut")}>
-              Donut
-            </Button>{" "}
-            <Button variant="primary" size="lg" active onClick={() => setChart("BarITBA")}>
-              Bar Graduados
-            </Button>{" "}
             <Button variant="primary" size="lg" active onClick={() => setChart("BoxPlotITBA")}>
-              BoxPlot Graduados
+              BoxPlot
             </Button>{" "}
             <Button variant="primary" size="lg" active onClick={() => setChart("MultiLineITBA")}>
-              MultiLine Graduados
+              MultiLine
             </Button>{" "}
           </>
         </Container>
         <br />
         <br />
-        {chart === "Bar" ? <Bar /> : <></>}
-        {chart === "Donut" ? <Donut /> : <></>}
         {chart === "BarITBA" ? <ITBABar /> : <></>}
         {chart === "BoxPlotITBA" ? <ITBABoxPlot /> : <></>}
         {chart === "MultiLineITBA" ? <MultiLine /> : <></>}
