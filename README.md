@@ -1,6 +1,15 @@
 # TP-Infovis
 
-## Creación de App React
+## Para descargar y ejecutar este repositorio
+
+```
+git clone https://github.com/nicodelatorre7/TP-Infovis.git
+cd TP-Infovis/vegalite-react
+npm install
+npm start
+```
+
+## Para crear una App React
 
 Ejecutar los comandos:
 
